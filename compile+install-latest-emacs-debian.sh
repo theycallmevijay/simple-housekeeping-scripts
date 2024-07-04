@@ -5,6 +5,7 @@
 #######################################################################################
 
 # Get the latest GNU Emacs from repository
+# At the time of update Emacs 31.0.50
 git clone git://git.savannah.gnu.org/emacs.git ./emacs
 
 cd emacs
